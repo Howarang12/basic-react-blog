@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "title 1", 
+      "body": "lorem ipsum...", 
+      "author": "mario", 
+      "id": 1
+    }, 
+    {
+      "title": "title 2", 
+      "body": "lorem ipsum...", 
+      "author": "wario", 
+      "id": 2
+    }, 
+    {
+      "title": "title 3", 
+      "body": "lorem ipsum...", 
+      "author": "dario", 
+      "id": 3
+    }
+  ]
+}
